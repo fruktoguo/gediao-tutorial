@@ -25,7 +25,10 @@
 |---|---|
 | `index.html` | 视频源码（动画、时间轴、章节标题全部内嵌） |
 | `intimacy_science_guide_1080p60.mp4` | 横版成品（约 65MB） |
+| `性生活科学指南短片.zip` | Gemini 4 Carbon 全程对话存档（chat.md，7 轮对话直出本片） |
 | 竖版 1080p60 | 体积超 GitHub 单文件限制，挂在 [Releases](../../releases) |
+
+> 本片为 Gemini 4 Carbon（@programmatic-video-studio）直出产物，完整提示词与迭代过程见 zip 内 `chat.md`。
 
 ## 章节（10 章）
 
